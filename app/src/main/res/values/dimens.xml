@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="device_discovery_recyclerview_padding">8dp</dimen>
+    <dimen name="device_name_text_size">24sp</dimen>
+    <dimen name="cardview_padding">8dp</dimen>
+</resources>
